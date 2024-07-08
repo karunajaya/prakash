@@ -1,0 +1,106 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.background{
+    background-color: wheat;
+}
+.menu{
+    background-color: navy;
+    height: 100px;
+}
+
+.Github-icon{
+    display: inline;
+    position: relative;
+    top: 25px;
+    left: 20px;
+}
+
+.heading{
+    display: inline;
+    color: white;
+    position: relative;
+    left: 45%
+}
+
+.bar{
+    background-color: gray;
+    margin-top: 30px;
+    height: 500px;
+    width: 250px;
+    display: inline-block;
+    margin-left: 60px;
+    position: relative;
+    border-radius: 20px;
+}
+
+.rep{
+    background-color: wheat;
+    height: 500px;
+    width: 800px;
+    display: inline-block;
+    margin-left: 80px;
+    position: relative;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.box1{
+    background-color: gray;
+    height: 25px;
+    width: 600px;
+    margin-top: 10px;
+    margin-left: 80px;
+    position: relative;
+    border-radius: 10px;
+}
+
+.box2{
+    background-color: gray;
+    height: 150px;
+    width: 150px;
+    margin-top: 70px;
+    margin-left: 80px;
+    position: relative;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.box3{
+    background-color: gray;
+    height: 150px;
+    width: 150px;
+    margin-top: 70px;
+    margin-left: 80px;
+    position: relative;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.box4{
+    background-color: gray;
+    height: 150px;
+    width: 150px;
+    margin-top: 70px;
+    margin-left: 80px;
+    position: relative;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.box5{
+    background-color: gray;
+    height: 150px;
+    width: 630px;
+    margin-top: 70px;
+    margin-left: 80px;
+    position: relative;
+    border-radius: 10px;
+}
+
+.text{
+    color: aliceblue;
+    margin-left: 15px;
+}
